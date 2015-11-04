@@ -1,0 +1,1 @@
+Syndicate Google Search Appliance search results out to RSS feed readers. Add a feed icon to your current front end stylesheet to provide this capability for users. Upon clicking the icon in a search result listing the user is provided a feed URL that he can subscribe to in his favorite RSS feed reading tool. Authoring credit to the team at SITESA.
